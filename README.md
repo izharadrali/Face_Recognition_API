@@ -3,8 +3,6 @@ This api is designed for registering person/employ for recognition purpose on ed
 
 
 
-# Face Recognition API
-
 A high-performance Face Embedding API built with FastAPI. This service extracts robust facial embeddings from uploaded images using a multi-stage pipeline: face detection (YOLO), facial alignment (Landmarks), and embedding extraction (ArcFace). 
 
 ## Features
