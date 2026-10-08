@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+numpy<2.0.0
+opencv-python-headless
+onnxruntime
+tflite-runtime
+ultralytics==8.3.40
+torch
